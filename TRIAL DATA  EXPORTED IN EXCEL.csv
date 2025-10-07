@@ -1,0 +1,11 @@
+Record ID,Participant ID,Age,Gender,Cancer Stage,ECOG Performance Status,Prior Chemotherapy,Inclusion/Exclusion Check (choice=no active infections),Inclusion/Exclusion Check (choice=no prior trial enrollment),Inclusion/Exclusion Check (choice=other),other,Informed Consent,E-SIGNATURE,Complete
+1,ONC1,45,Male,II,"1- Restricted from strenuous activity, light work okay",Yes,Checked,Checked,Unchecked,,yes,signature_2025-10-06_1545.png,Complete
+2,ONC2,28,Female,I,"0- Fully active, no restrictions",No,Unchecked,Checked,Unchecked,,yes,signature_2025-10-06_1551.png,Complete
+3,ONC3,65,Other,III,"2- Ambulatory, self-care only, up >50% of time",Yes,Checked,Checked,Unchecked,,no,,Complete
+4,ONC4,55,Male,IV,"3-Capable of limited self-care, confined to bed/chair < 50% of time",No,Unchecked,Unchecked,Checked,concurrent medication not listed in protocol,yes,signature_2025-10-06_1554.png,Complete
+5,ONC5,38,Female,II,"1- Restricted from strenuous activity, light work okay",Yes,Checked,Checked,Unchecked,,yes,signature_2025-10-06_2306.png,Complete
+6,ONC6,72,Male,III,"2- Ambulatory, self-care only, up >50% of time",Yes,Checked,Unchecked,Unchecked,,no,,Complete
+7,ONC7,31,Female,I,"0- Fully active, no restrictions",No,Checked,Checked,Unchecked,,yes,signature_2025-10-06_2309.png,Complete
+8,ONC8,49,Male,IV,"3-Capable of limited self-care, confined to bed/chair < 50% of time",Yes,Checked,Unchecked,Unchecked,,yes,signature_2025-10-06_2311.png,Complete
+9,ONC9,24,Other,II,"0- Fully active, no restrictions",No,Checked,Checked,Unchecked,,yes,signature_2025-10-06_2313.png,Complete
+10,ONC10,60,Female,III,"2- Ambulatory, self-care only, up >50% of time",Yes,Unchecked,Unchecked,Checked,Enrolled in another observational study.,no,,Complete
