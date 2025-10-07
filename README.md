@@ -11,10 +11,10 @@ This repository contains a mock dataset created in REDCap for demonstration and 
 - **CODEBOOK FILE.pdf:** Variable definitions and coding reference.
 - **TRIAL DATA EXPORTED IN EXCEL:** view report exported to excel.
 
-### 🧠 About
+### About
 Created to simulate screening data entry for a clinical oncology study (10 participants, diverse values).  
 Fields include demographic details, ECOG performance status, prior chemotherapy, and inclusion/exclusion criteria.
 
-### 💻 Tools Used
+### Tools Used
 - **REDCap** (data capture)
 - **GitHub** (version control & portfolio)
